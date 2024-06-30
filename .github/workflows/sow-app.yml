@@ -37,5 +37,5 @@ jobs:
     - name: Test with pytest
       run: |
         env:
-          OPENAI_API_KEY: ${{ secrets.API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         pytest tests/test_sow_generator.py
