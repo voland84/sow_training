@@ -1,0 +1,10 @@
+streamlit==1.30.0
+python-docx==1.1.2
+pytest==8.2.2
+langchain
+openai==1.6.1
+tiktoken==0.5.2
+langchain_community
+langchain_openai
+var_dump
+tavily-python==0.3.3
